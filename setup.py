@@ -8,5 +8,5 @@ setup(
     author="gines-carrascal",
     author_email="gines-carrascal@qiskit.org",
     packages=find_packages(exclude=['test*']),
-    install_requires=["qiskit"]
+    install_requires=["qiskit-terra"]
 )
